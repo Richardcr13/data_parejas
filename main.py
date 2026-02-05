@@ -1,0 +1,1 @@
+print('revisa el código en mi canal de youtube Hablemos con datos (@DataMindSetLab)')
