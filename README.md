@@ -21,6 +21,6 @@ Nombre archivo: consultas_matrimonio.csv
 Proyecciones estadísticas para 2025 y 2026 basadas en modelos de Machine Learning.
 
 📺 Análisis Completo y Metodología
-La lógica detrás de la limpieza de estos datos y el entrenamiento del modelo predictivo se explica a detalle en este video: [ENLACE A TU VIDEO DE YOUTUBE]
+La lógica detrás de la limpieza de estos datos y el entrenamiento del modelo predictivo se explica a detalle en este video: https://youtu.be/o7POBHJW8B0
 
 Nota: Este repositorio solo contiene los datos resultantes. El código fuente del modelo es propiedad del autor.
